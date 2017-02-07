@@ -1,0 +1,18 @@
+Hi Ali,
+
+I'm sharing 3 links of Telepresence with you with regards to:
+
+1. Connecting Telepresence with Google Calendar so the user can see the Telepresence conference room's availability and book it
+
+2. Allowing viewing availability and booking of Telepresence conference room from a device placed outside the conference room
+
+Cisco TelePresence Manager Datasheet
+http://www.cisco.com/c/en/us/products/collateral/conferencing/telepresence-manager/product_data_sheet0900aecd805455ff.html
+
+Cisco TelePresence System User Guide (CTS 1.9)
+http://www.cisco.com/c/en/us/td/docs/telepresence/cts_admin/1_9/userguide/cts_ug/cts_ug_schedule.html
+
+Centralized Management and Scheduling of Your Cisco TelePresence Network Data Sheet
+http://www.cisco.com/c/en/us/products/collateral/conferencing/telepresence-management-suite-tms/data_sheet_c78-707529.html
+
+Thanks.
